@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- normalize and html5 boilerplate resets -->
+        <link rel="stylesheet" href="//s3.yolacdn.net/V0000900/template_resources/0/Skyline_v2/resources/css/reset.css">
+        <link rel="stylesheet" href="//s3.yolacdn.net/V0000900/template_resources/0/Skyline_v2/resources/css/less.build.css">
+
+        <!--[if lte IE 9]>
+        <script src="//s1.yolacdn.net/V0000900/template_resources/0/Skyline_v2/resources/js/html5shiv.js"></script>
+        <script src="//s2.yolacdn.net/V0000900/template_resources/0/Skyline_v2/resources/js/html5shiv-printshiv.js"></script>
+
+        <![endif]-->
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+
+<title>espacoconceitus.com.br</title>
+
+
+
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+
+  <link href="resources/logo.png" rel="shortcut icon" type="image/x-icon" />
+  <link href="resources/logo.png" rel="icon" type="image/x-icon" />
+
+
+
+  
+
+
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.2/webfont.js" type="text/javascript"></script>
+
+      
+  
+  
+
+  
+
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="/components/bower_components/jquery/dist/jquery.js"><\/script>')</script>
+<link rel="stylesheet" type="text/css" href="//s2.yolacdn.net/V1001073/components/commons/resources/flyoutmenu/flyoutmenu.css" />
+<script type="text/javascript" src="//s3.yolacdn.net/V1001073/components/commons/resources/flyoutmenu/flyoutmenu.js"></script>
+<link rel="stylesheet" type="text/css" href="//s1.yolacdn.net/V1001073/components/commons/resources/global/global.css" />
+
+
+<script type="text/javascript">
+  var swRegisterManager = {
+    goals: [],
+    add: function(swGoalRegister) {
+      this.goals.push(swGoalRegister);
+    },
+    registerGoals: function() {
+      while(this.goals.length) {
+        this.goals.shift().call();
+      }
+    }
+  };
+
+  window.swPostRegister = swRegisterManager.registerGoals.bind(swRegisterManager);
+</script>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="//s3.yolacdn.net/V1001073/components/system/Form/layouts/Default/Default.css" />
+  
+
+    </head>
+    <body lang="pt-br" class="bgd-attachment-fixed">
+            <script
+        type="application/ld+json"
+        id="locationData"
+        data-embed-key="AIzaSyARNP6PBrYdKNmsYf09tU8jRnffQb-sFQg">
+        {
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness",
+            "telephone": "(51) 99354-2608",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Av. Cristóvão Colombo,1844 ",
+                "addressLocality": "Porto Alegre",
+                "addressRegion": "RS",
+                "addressCountry": "BR",
+                "postalCode": "90560-002"
+            },
+            "openingHours": null
+        }
+    </script>
+
+        <div id="sys_background" class="yola_bg_overlay">
+            <div class="yola_inner_bg_overlay">
+                <div class="yola_outer_content_wrapper">
+                    <header role="header">
+                        <div class="yola_outer_heading_wrap">
+                            <div class="yola_heading_container">
+                                <div class="yola_inner_heading_wrap left">
+                                    <div class="yola_innermost_heading_wrap">
+                                                                                <nav class="mob_menu">
+                                            <div class="mob_menu_toggle"><!--Mobile Nav Toggle-->
+                                                <svg class="mobile_ham" width="40" height="25">
+                                                  <line x1="0" y1="3" x2="40" y2="3" stroke-width="2"/>
+                                                  <line x1="0" y1="13" x2="40" y2="13" stroke-width="2"/>
+                                                  <line x1="0" y1="23" x2="40" y2="23" stroke-width="2"/>
+                                                </svg>
+                                                <svg class="mobile_quit" width="26" height="50">
+                                                    <line x1="0" y1="1" x2="26" y2="25" stroke-width="2"/>
+                                                    <line x1="0" y1="25" x2="26" y2="1" stroke-width="2"/>
+                                                </svg>
+                                            </div>
+                                            <div class="mob_menu_overlay"> <!--Mobile Nav Overlay-->
+                                                <ul class="mob_menu_list">
+      <li class="selected">
+      <a href="./" title="inicio">IN&Iacute;CIO</a>
+          </li>
+      <li class="">
+      <a href="continas.php" title="continas">CORTINAS</a>
+              <svg class="mob_more_toggle" x="0px" y="0px" height="24" width="24" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+          <circle cx="12" cy="12" r="11" stroke-width="1.5" fill="none" />
+          <line class="down_arrow" x1="5" y1="10" x2="12" y2="17" stroke-width="2" />
+          <line class="down_arrow" x1="12" y1="17" x2="19" y2="10" stroke-width="2" />
+          <line class="up_arrow" x1="5" y1="15" x2="12" y2="8" stroke-width="2" />
+          <line class="up_arrow" x1="12" y1="8" x2="19" y2="15" stroke-width="2" />
+        </svg>
+        <ul class="mob_submenu_list">
+                      <li>
+              <a class="mob_submenu_items" href="cortinas-especiais.php" title="cortinas-especiais">CORTINAS ESPECIAIS</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="cortina-de-tecido.php" title="cortina-de-tecido">CORTINAS DE TECIDO</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="painel.php" title="painel">PAINEL</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="cortina-plissada.php" title="cortina-plissada">PLISSADA</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="rollo-double-vision.php" title="rollo-double-vision">ROLLO DOUBLE VISION</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="cortina-rollo.php" title="cortina-rollo">ROLLO</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="cortina-romana.php" title="cortina-romana">ROMANA</a>
+            </li>
+                  </ul>
+            </li>
+      <li class="">
+      <a href="persianas-porto-alegre.php" title="persianas-porto-alegre">PERSIANAS</a>
+              <svg class="mob_more_toggle" x="0px" y="0px" height="24" width="24" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+          <circle cx="12" cy="12" r="11" stroke-width="1.5" fill="none" />
+          <line class="down_arrow" x1="5" y1="10" x2="12" y2="17" stroke-width="2" />
+          <line class="down_arrow" x1="12" y1="17" x2="19" y2="10" stroke-width="2" />
+          <line class="up_arrow" x1="5" y1="15" x2="12" y2="8" stroke-width="2" />
+          <line class="up_arrow" x1="12" y1="8" x2="19" y2="15" stroke-width="2" />
+        </svg>
+        <ul class="mob_submenu_list">
+                      <li>
+              <a class="mob_submenu_items" href="persiana-horizontal.php" title="persiana-horizontal">PERSIANA HORIZONTAL</a>
+            </li>
+                      <li>
+              <a class="mob_submenu_items" href="persiana-vertical.php" title="persiana-vertical">PERSIANA VERTICAL</a>
+            </li>
+                  </ul>
+            </li>
+      <li class="">
+      <a href="papel-de-parede.php" title="papel-de-parede">PAPEL DE PAREDE</a>
+          </li>
+      <li class="">
+      <a href="tela-mosqueteira-porto-alegre.php" title="tela-mosquiteira-porto-alegre">TELA MOSQUITEIRA</a>
+          </li>
+      <li class="">
+      <a href="contato.php" title="contato">CONTATO</a>
+          </li>
+  </ul>
+                                            </div>
+                                        </nav>
+                                                                                                                        <div id="yola_heading_block"> <!--Title / Logo-->
+                                            <h1>
+                                                <a id="sys_heading" class="yola_hide_logo" href="./">
+                                                    <img class="yola_site_logo" src="" alt="" >
+                                                    <span></span>
+                                                </a>
+                                            </h1>
+                                        </div>
+                                        <div id="yola_nav_block"> <!--Nav-->
+                                            <nav role="navigation">
+                                                <div class="sys_navigation">
+                                                <ul class="sys_navigation">
+                    <li id="ys_menu_0"class="selected">
+                    <a href="./" title="inicio">IN&Iacute;CIO</a>
+        </li>
+                    <li id="ys_menu_1">
+                    <a href="continas.php" title="continas">CORTINAS</a>
+        </li>
+                    <li id="ys_menu_2">
+                    <a href="persianas-porto-alegre.php" title="persianas-porto-alegre">PERSIANAS</a>
+        </li>
+                    <li id="ys_menu_3">
+                    <a href="papel-de-parede.php" title="papel-de-parede">PAPEL DE PAREDE</a>
+        </li>
+                    <li id="ys_menu_4">
+                    <a href="tela-mosqueteira-porto-alegre.php" title="tela-mosquiteira-porto-alegre">TELA MOSQUITEIRA</a>
+        </li>
+                    <li id="ys_menu_5">
+                    <a href="contato.php" title="contato">CONTATO</a>
+        </li>
+    </ul>
+                 <div id="ys_submenu_1" class="ys_submenu">
+            <div class='ys_submenu_inner'>
+                <ul>
+                                            <li>
+                            <a href="cortinas-especiais.php">CORTINAS ESPECIAIS</a>
+                        </li>
+                                            <li>
+                            <a href="cortina-de-tecido.php">CORTINAS DE TECIDO</a>
+                        </li>
+                                            <li>
+                            <a href="painel.php">PAINEL</a>
+                        </li>
+                                            <li>
+                            <a href="cortina-plissada.php">PLISSADA</a>
+                        </li>
+                                            <li>
+                            <a href="rollo-double-vision.php">ROLLO DOUBLE VISION</a>
+                        </li>
+                                            <li>
+                            <a href="cortina-rollo.php">ROLLO</a>
+                        </li>
+                                            <li>
+                            <a href="cortina-romana.php">ROMANA</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+                 <div id="ys_submenu_2" class="ys_submenu">
+            <div class='ys_submenu_inner'>
+                <ul>
+                                            <li>
+                            <a href="persiana-horizontal.php">PERSIANA HORIZONTAL</a>
+                        </li>
+                                            <li>
+                            <a href="persiana-vertical.php">PERSIANA VERTICAL</a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+                    
+<script>
+/* jshint ignore:start */
+$(document).ready(function() {
+    flyoutMenu.initFlyoutMenu(
+        [{"name":"IN&Iacute;CIO","title":"inicio","href":".\/","children":[]},{"name":"CORTINAS","title":"continas","href":"continas.php","children":[{"name":"CORTINAS ESPECIAIS","title":"cortinas-especiais","href":"cortinas-especiais.php"},{"name":"CORTINAS DE TECIDO","title":"cortina-de-tecido","href":"cortina-de-tecido.php"},{"name":"PAINEL","title":"painel","href":"painel.php"},{"name":"PLISSADA","title":"cortina-plissada","href":"cortina-plissada.php"},{"name":"ROLLO DOUBLE VISION","title":"rollo-double-vision","href":"rollo-double-vision.php"},{"name":"ROLLO","title":"cortina-rollo","href":"cortina-rollo.php"},{"name":"ROMANA","title":"cortina-romana","href":"cortina-romana.php"}]},{"name":"PERSIANAS","title":"persianas-porto-alegre","href":"persianas-porto-alegre.php","children":[{"name":"PERSIANA HORIZONTAL","title":"persiana-horizontal","href":"persiana-horizontal.php"},{"name":"PERSIANA VERTICAL","title":"persiana-vertical","href":"persiana-vertical.php"}]},{"name":"PAPEL DE PAREDE","title":"papel-de-parede","href":"papel-de-parede.php","children":[]},{"name":"TELA MOSQUITEIRA","title":"tela-mosquiteira-porto-alegre","href":"tela-mosqueteira-porto-alegre.php","children":[]},{"name":"CONTATO","title":"contato","href":"contato.php","children":[]}]
+    , 'flyover');
+});
+/* jshint ignore:end */
+</script>
+
+                                                </div>
+                                            </nav>
+                                        </div>
+                                                                                <div style="padding:0; height:0; clear:both;">&nbsp;</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="sys_banner" class="yola_banner_wrap">
+                                <div class="yola_inner_banner_wrap">
+                                    <div class="yola_innermost_banner_wrap">
+                                        <h2 class="yola_site_tagline" style="display:none"><span></span></h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+
+                    <main class="yola_content_wrap" role="main">
+                        <div class="yola_content_column">
+                            <div class="yola_inner_content_column clearFix">
+                                
+
+<div class="layout_1-column sys_layout">
+    <div id="layout_row1">
+        <div id="sys_region_1" class="zone_top" ><div id="Ic82df9a563744d64a1a4008b79d17643" style="display:block;clear: both;margin:0.5rem;" class="Panel_Default">    
+
+    <div id='yola-panel-Ic82df9a563744d64a1a4008b79d17643'>
+                    <div
+                id='yola-panel-background-Ic82df9a563744d64a1a4008b79d17643'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ic82df9a563744d64a1a4008b79d17643'>
+            <div id="Panel_Ic82df9a563744d64a1a4008b79d17643" style="text-align:left; vertical-align:top;" ><div id="Ibf68a319a59f4be68e47c9745af2c88f" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ibf68a319a59f4be68e47c9745af2c88f'>
+                    <div
+                id='yola-panel-background-Ibf68a319a59f4be68e47c9745af2c88f'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ibf68a319a59f4be68e47c9745af2c88f'>
+            <div id="Panel_Ibf68a319a59f4be68e47c9745af2c88f" style="text-align:left; vertical-align:top;" ><div id="I35a5eb3e65b14a42944b14d7011b38c2" style="display:block;clear: both;margin:0 0 0 0;" class="Text_2_Default">
+
+<div id="I35a5eb3e65b14a42944b14d7011b38c2_sys_txt" systemElement="true" class="sys_txt sys_text_widget new-text-widget"><h2 style="text-align: center;" class=""></h2>
+<blockquote class="over_outline">
+<p style="text-align: left;" class=""><span style="color: #ffffff;"> </span></p>
+<h5 class=""><span style="color: #ffffff;">A <strong>Espaço Conceitus</strong> é uma empresa inovadora e comprometida com a excelência na qualidade de seus produtos e no atendimento aos seus clientes e fornecedores.&nbsp; Dispõe de <strong>Show Room</strong>, instalador próprio e profissionais especializados para garantir total qualidade no serviço. A <strong>Espaço Conceitus</strong> realiza seu projeto utilizando <strong>inovação</strong>, <strong>praticidade</strong> e <strong>funcionalidade</strong> para atender as suas necessidades, sejam elas em ambientes residenciais ou comerciais, harmonizando da melhor forma. </span></h5>
+</blockquote>
+<h6 style="text-align: center;" class="over_outline"></h6></div></div></div>
+        </div>
+    </div>
+
+    
+    
+</div></div>
+        </div>
+    </div>
+
+    
+    
+</div><div id="Ife15bd4d2af5412ebb94db3dc7178117" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ife15bd4d2af5412ebb94db3dc7178117'>
+                <div id='yola-panel-inner-Ife15bd4d2af5412ebb94db3dc7178117'>
+            <div id="Panel_Ife15bd4d2af5412ebb94db3dc7178117" style="text-align:left; vertical-align:top;" ><div id="I976e52b9b473412396f8b4651c283fbc" style="display:block;clear: both;" class="Layout1_Default"><div class="column_I976e52b9b473412396f8b4651c283fbc column_divider" ><div id="Left_I976e52b9b473412396f8b4651c283fbc" class="left" ><div id="I4d8e8773bf16438ea05dd9e9a9ea3388" style="display:block;clear: both;" class="Layout1_Default"><div class="column_I4d8e8773bf16438ea05dd9e9a9ea3388 column_divider" ><div id="Left_I4d8e8773bf16438ea05dd9e9a9ea3388" class="left" ><div id="Ifa4df10b4a214b48a81da1c77a45fbbb" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ifa4df10b4a214b48a81da1c77a45fbbb'>
+                    <div
+                id='yola-panel-background-Ifa4df10b4a214b48a81da1c77a45fbbb'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ifa4df10b4a214b48a81da1c77a45fbbb'>
+            <div id="Panel_Ifa4df10b4a214b48a81da1c77a45fbbb" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div><div id="Right_I4d8e8773bf16438ea05dd9e9a9ea3388" class="right" ><div id="If3b2e0b70c7c43d79079db799a0d2a2c" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-If3b2e0b70c7c43d79079db799a0d2a2c'>
+                <div id='yola-panel-inner-If3b2e0b70c7c43d79079db799a0d2a2c'>
+            <div id="Panel_If3b2e0b70c7c43d79079db799a0d2a2c" style="text-align:left; vertical-align:top;" ><div id="I6a78882007c44667be591a48f475bc6e" style="display:block;clear: both;" class="Button_Default">
+
+<div
+  id="I6a78882007c44667be591a48f475bc6e_sys_button"
+  systemElement="true"
+  class="I6a78882007c44667be591a48f475bc6e_sys_button sys_button large square outline">
+    <a
+       href="continas.php"                   >
+        Cortinas
+    </a>
+</div></div></div>
+        </div>
+    </div>
+
+    
+    
+</div></div></div></div></div><div id="Right_I976e52b9b473412396f8b4651c283fbc" class="right" ><div id="If4a6b13e1991424e94897c4481ae82a0" style="display:block;clear: both;" class="Layout1_Default"><div class="column_If4a6b13e1991424e94897c4481ae82a0 column_divider" ><div id="Left_If4a6b13e1991424e94897c4481ae82a0" class="left" ><div id="If03ba9d2fab0403b97a217fe25902689" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-If03ba9d2fab0403b97a217fe25902689'>
+                    <div
+                id='yola-panel-background-If03ba9d2fab0403b97a217fe25902689'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-If03ba9d2fab0403b97a217fe25902689'>
+            <div id="Panel_If03ba9d2fab0403b97a217fe25902689" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div><div id="Right_If4a6b13e1991424e94897c4481ae82a0" class="right" ><div id="Iae32e795d4ae4f2f9710510071495c34" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Iae32e795d4ae4f2f9710510071495c34'>
+                    <div
+                id='yola-panel-background-Iae32e795d4ae4f2f9710510071495c34'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Iae32e795d4ae4f2f9710510071495c34'>
+            <div id="Panel_Iae32e795d4ae4f2f9710510071495c34" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div></div></div></div></div></div><div id="I7b4fa52f0dd04be59560a9e3fbc73149" style="display:block;clear: both;margin:10px 10px 10px 10px;" class="Horizontal_Line_Default">    <div style='border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;'></div>
+</div><div id="I41f97cf3d32c4ac5bd6c8a191737f573" style="display:block;clear: both;" class="Layout1_Default"><div class="column_I41f97cf3d32c4ac5bd6c8a191737f573 column_divider" ><div id="Left_I41f97cf3d32c4ac5bd6c8a191737f573" class="left" ><div id="I7f91a1c9bdd1479f89e7cfb9ec381362" style="display:block;clear: both;" class="Layout1_Default"><div class="column_I7f91a1c9bdd1479f89e7cfb9ec381362 column_divider" ><div id="Left_I7f91a1c9bdd1479f89e7cfb9ec381362" class="left" ><div id="Ie050b8d1f6654ba0940fc89b436dafae" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ie050b8d1f6654ba0940fc89b436dafae'>
+                    <div
+                id='yola-panel-background-Ie050b8d1f6654ba0940fc89b436dafae'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ie050b8d1f6654ba0940fc89b436dafae'>
+            <div id="Panel_Ie050b8d1f6654ba0940fc89b436dafae" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div><div id="Right_I7f91a1c9bdd1479f89e7cfb9ec381362" class="right" ><div id="Ie1ffbac5be1f43caad2bd305a89a6b21" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ie1ffbac5be1f43caad2bd305a89a6b21'>
+                    <div
+                id='yola-panel-background-Ie1ffbac5be1f43caad2bd305a89a6b21'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ie1ffbac5be1f43caad2bd305a89a6b21'>
+            <div id="Panel_Ie1ffbac5be1f43caad2bd305a89a6b21" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div></div></div></div><div id="Right_I41f97cf3d32c4ac5bd6c8a191737f573" class="right" ><div id="I4b3c7076fb22498e95a2fe0c5be927cd" style="display:block;clear: both;" class="Layout1_Default"><div class="column_I4b3c7076fb22498e95a2fe0c5be927cd column_divider" ><div id="Left_I4b3c7076fb22498e95a2fe0c5be927cd" class="left" ><div id="I6acde0b5bc3e48cf81d8a9aa8429e0de" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-I6acde0b5bc3e48cf81d8a9aa8429e0de'>
+                <div id='yola-panel-inner-I6acde0b5bc3e48cf81d8a9aa8429e0de'>
+            <div id="Panel_I6acde0b5bc3e48cf81d8a9aa8429e0de" style="text-align:left; vertical-align:top;" ><div id="I1902440484ef4a3bb4e6764003d4e9e0" style="display:block;clear: both;" class="Button_Default">
+
+<div
+  id="I1902440484ef4a3bb4e6764003d4e9e0_sys_button"
+  systemElement="true"
+  class="I1902440484ef4a3bb4e6764003d4e9e0_sys_button sys_button large square outline">
+    <a
+       href="persianas-porto-alegre.php"                   >
+        Persianas
+    </a>
+</div></div></div>
+        </div>
+    </div>
+
+    
+    
+</div></div><div id="Right_I4b3c7076fb22498e95a2fe0c5be927cd" class="right" ><div id="Ic12d2268f6124ee3a2e614ae49f1f22c" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ic12d2268f6124ee3a2e614ae49f1f22c'>
+                    <div
+                id='yola-panel-background-Ic12d2268f6124ee3a2e614ae49f1f22c'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ic12d2268f6124ee3a2e614ae49f1f22c'>
+            <div id="Panel_Ic12d2268f6124ee3a2e614ae49f1f22c" style="text-align:left; vertical-align:top;" >&nbsp;</div>
+        </div>
+    </div>
+
+    
+    
+</div></div></div></div></div></div></div><div id="I881bc60ca9274c239beee07142edcdc1" style="display:block;clear: both;margin:10px 10px 10px 10px;" class="Horizontal_Line_Default">    <div style='border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#cccccc;font-size:0;padding:0;margin:0;height:0;line-height:0;'></div>
+</div></div>
+        </div>
+    </div>
+
+    
+    
+</div><div id="Ie9cf8bbf026b417988f689814269ecbf" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-Ie9cf8bbf026b417988f689814269ecbf'>
+                    <div
+                id='yola-panel-background-Ie9cf8bbf026b417988f689814269ecbf'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-Ie9cf8bbf026b417988f689814269ecbf'>
+            <div id="Panel_Ie9cf8bbf026b417988f689814269ecbf" style="text-align:left; vertical-align:top;" ><div id="I2caf6735cfb041668908047edaf1bfbb" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-I2caf6735cfb041668908047edaf1bfbb'>
+                    <div
+                id='yola-panel-background-I2caf6735cfb041668908047edaf1bfbb'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-I2caf6735cfb041668908047edaf1bfbb'>
+            <div id="Panel_I2caf6735cfb041668908047edaf1bfbb" style="text-align:left; vertical-align:top;" ><div id="I8ad58931ec944302b36e6913cb27579e" style="display:block;clear: both;" class="Text_2_Default">
+
+<div id="I8ad58931ec944302b36e6913cb27579e_sys_txt" systemElement="true" class="sys_txt sys_text_widget new-text-widget"><h5 style="color: #ffffff; text-align: center;">Entre em contato</h5></div></div><div id="I4e3ce7dec25c478e973473aab55defbd" style="display:block;clear: both;" class="Form_Default"><div class="sys_yola_form">
+
+    
+        
+        <form method='post' accept-charset="UTF-8" action='//forms.yola.com/formservice/pt-br/84c8bdbdb9404f6a90fb6616fc793a3e/d4cb79258c3a43c5b603ff1550ae06f0/934d59d4e16c460486b910359b4a31b8/I4e3ce7dec25c478e973473aab55defbd/'>
+
+            
+                <div class='yola-form-field'>
+
+                                                                        <p class='label'><label for='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_0'>Nome</label></p>
+                                            
+                                            <input id='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_0' class='text' name='0<text>' type='text' value=''
+                             >
+                    
+                    <input type='hidden' name='0<label>' value='Nome' />
+
+                </div>
+
+            
+                <div class='yola-form-field'>
+
+                                                                        <p class='label'><label for='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_1'>E-mail</label></p>
+                                            
+                                            <input id='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_1' class='email' name='1<text>' type='email' value=''
+                             >
+                    
+                    <input type='hidden' name='1<label>' value='E-mail' />
+
+                </div>
+
+            
+                <div class='yola-form-field'>
+
+                                                                        <p class='label'><label for='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_2'>Telefone</label></p>
+                                            
+                                            <input id='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_2' class='tel' name='2<text>' type='tel' value=''
+                             >
+                    
+                    <input type='hidden' name='2<label>' value='Telefone' />
+
+                </div>
+
+            
+                <div class='yola-form-field'>
+
+                                                                        <p class='label'><label for='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_3'>Mensagem</label></p>
+                                            
+                                            <textarea id='yola_form_widget_I4e3ce7dec25c478e973473aab55defbd_3' name='3<textarea>'
+                             ></textarea>
+                     
+                    <input type='hidden' name='3<label>' value='Mensagem' />
+
+                </div>
+
+            
+            <input type='hidden' name='redirect' value='https://jsbbe.yola.com/restricted_view/source_preview/d4cb79258c3a43c5b603ff1550ae06f0/?formI4e3ce7dec25c478e973473aab55defbdPosted=true' />
+            <input type='hidden' name='locale' value='pt-br' />
+            <input type='hidden' name='redirect_fail' value='https://jsbbe.yola.com/restricted_view/source_preview/d4cb79258c3a43c5b603ff1550ae06f0/?formI4e3ce7dec25c478e973473aab55defbdPosted=false' />
+            <input type='hidden' name='form_name' value='' />
+            <input type='hidden' name='site_name' value='Espaço Conceitus' />
+            <input type='hidden' name='wl_site' value='1' />
+                        <input type='hidden' name='destination' value='AA3qWn4p5Zonoy09MCCoIiO4TqBd8Ux1aRvl0hg1D16mu0K6oUU65Ylk_RWHwQ==:IdpJdpWg_oEaQmV7A6qQBcie4w26ch94D8qy7lRUlJo=' />
+            
+            <div class="recaptcha-wrap">
+    <span class="recaptcha-spin"></span>
+    <div class="g-recaptcha" data-sitekey="6LcEthAUAAAAANLeILVZiZpPDbVwyoQuQ7c3qlsy" id="recaptcha-I4e3ce7dec25c478e973473aab55defbd"></div>
+</div>
+
+<script>
+    window.formWidgetRecaptchaQueue = window.formWidgetRecaptchaQueue || [];
+    window.formWidgetRecaptchaQueue.push('recaptcha-I4e3ce7dec25c478e973473aab55defbd');
+</script>
+<script src="//s2.yolacdn.net/V1001073/components/system/Form/layouts/Default/recaptcha.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?onload=recaptchacb&render=explicit&hl=pt-br" async defer></script>
+                            <p><input class='submit' type="submit" value="Enviar" /></p>
+            
+        </form>
+
+    
+    
+</div></div></div>
+        </div>
+    </div>
+
+    
+    
+</div></div>
+        </div>
+    </div>
+
+    
+    
+</div><div id="I9ca4ae48c3c5422a994f975795ac4fee" style="display:block;clear: both;" class="Panel_Default">    
+
+    <div id='yola-panel-I9ca4ae48c3c5422a994f975795ac4fee'>
+                    <div
+                id='yola-panel-background-I9ca4ae48c3c5422a994f975795ac4fee'
+                            >
+                                            </div>
+                <div id='yola-panel-inner-I9ca4ae48c3c5422a994f975795ac4fee'>
+            <div id="Panel_I9ca4ae48c3c5422a994f975795ac4fee" style="text-align:left; vertical-align:top;" ><div id="I9655c27c76004bd6b0d2c4491c5fd3bc" style="display:block;clear: both;margin:0 0 0 0;" class="Text_2_Default">
+
+<div id="I9655c27c76004bd6b0d2c4491c5fd3bc_sys_txt" systemElement="true" class="sys_txt sys_text_widget new-text-widget"><p style="text-align: center;" class="over_outline">© Copyright Espaço Conceitus 2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Av. Cristóvão Colombo, 1844 - Floresta - Porto Alegre - RS 90560-002</p></div></div></div>
+        </div>
+    </div>
+
+    
+    
+</div></div>
+    </div>
+</div>
+                            </div>
+                        </div>
+                    </main>
+
+                    <div class="yola_footer_wrap">
+                        <div class="yola_footer_column">
+                            <footer id="yola_style_footer">
+                                <p style="float:right; margin:0;">Av. Cristóvão Colombo,1844, Porto Alegre, RS 90560-002, BR | (51) 99354-2608</p><div style="clear:both; height:0;"></div>
+                            </footer>
+                        </div>
+                    </div>
+                    
+                    
+
+
+<!-- template: Skyline_v2 58be74b1-8bb4-47c6-a6a0-fde4757eb654 -->
+                </div>
+            </div> <!-- .inner_bg_overlay -->
+        </div> <!-- #sys_background / .bg_overlay -->
+        <script src="//s1.yolacdn.net/V0000900/template_resources/0/Skyline_v2/resources/js/browserify.build.js"></script>
+    </body>
+</html>
